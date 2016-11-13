@@ -38,6 +38,8 @@ Length1=-1
 Version=2
 #EXTINF:-1,[COLOR red]WAVE CHRISTMAS[/COLOR]
 http://www.thewave.co.uk/radioplayer/the-wave-christmas.mp3
-#EXTINF:-1,
+#EXTINF:-1,[COLOR red]RADIO CHRISTMAS[/COLOR]
+http://uk4.internet-radio.com:31467/live
+
 #EXTINF:-1,
 
