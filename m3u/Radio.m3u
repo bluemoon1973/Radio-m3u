@@ -31,16 +31,4 @@ http://media-the.musicradio.com:80/HeartNorthWestMP3
 #EXTINF:-1,[COLOR red]Key 103[/COLOR]
 http://icy-e-bl-06-cr.sharp-stream.com:8000/key.mp3
 
-#EXTINF:-1,[COLOR green]Love 80's Manchester[/COLOR]
-http://rss-streaming.co.uk:8042/mp3
-Title1=Love80s Manchester
-Length1=-1
-Version=2
-#EXTINF:-1,[COLOR red]WAVE CHRISTMAS[/COLOR]
-http://www.thewave.co.uk/radioplayer/the-wave-christmas.mp3
-#EXTINF:-1,[COLOR red]RADIO CHRISTMAS[/COLOR]
-http://uk4.internet-radio.com:31467/live
-#EXTINF:-1,[COLOR red]CHRISTMAS HITS FM[/COLOR]
-http://46.105.118.14:24000/.m3u8
-
 
